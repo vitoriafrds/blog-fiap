@@ -43,7 +43,7 @@ npm run dev
 
 O servidor retornará uma URL local que poderá ser acessada para interagir com o sistema, mas normalmente é a seguinte: http://localhost:5173/
 
-## 📦 Implantação
+## 📦 Deploy 
 
 Para implantar este sistema, você vai precisar da pasta dist que será gerada após o comando:
 
@@ -51,7 +51,7 @@ Para implantar este sistema, você vai precisar da pasta dist que será gerada a
 npm run build
 ```
 
-## 🛠️ Construído com
+## 🛠️ Ferramentas utilizadas nesse projeto
 
 * [ViteJS](https://vitejs.dev/) - A ferramenta de construção usada.
 * [React](https://react.dev/) - O framework usado para desenvolvimento.
