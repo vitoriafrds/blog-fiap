@@ -58,4 +58,3 @@ npm run build
 * [Node](https://nodejs.org/en) - Ambiente de execução utilizado.
 * [NPM](https://www.npmjs.com/) - Gerenciador de dependências.
 * [Contentful](https://www.contentful.com/) - CMS usado para conteúdo dinâmico.
-* [Netlify](https://www.netlify.com/) - Cloud usada para fazer [deploy do projeto](https://glistening-trifle-7ffbe3.netlify.app/).
